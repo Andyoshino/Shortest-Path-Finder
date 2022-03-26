@@ -2,5 +2,5 @@
 
 1. Clone/Fork the repo.
 2. Go to the root folder of the repository.
-3. > npm install
-4. > npm run dev
+3. type in the terminal > npm install
+4. type in the terminal > npm run dev
